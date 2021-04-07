@@ -1,0 +1,8 @@
+{ //en esta configuracion se va a guardar los preset y la lectura para el js moderno
+    "presets": [
+        "@babel/preset-env"
+    ],
+    "plugins": [
+        "@babel/plugin-transform-runtime"
+    ]
+}
